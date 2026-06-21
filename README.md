@@ -5,6 +5,7 @@
 | 3 | 🏠 House Price Prediction | 80% R2 Score | [View](./house_price_prediction.ipynb) |
 | 4 | 🎬 Movie Rating Prediction | 6.1/10 Predicted | [View](./movie_rating_prediction.ipynb) |
 | 5 | 🩺 Diabetes Prediction | 75.32% Accuracy | [View](./diabetes_prediction.ipynb) |
+| 6 | 🌦️ Weather Prediction | Real World AI | [View](./weather_prediction.ipynb) |
 ## About Me
 BS Computer Science Graduate
 Specializing in Machine Learning & Data Science
