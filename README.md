@@ -1,3 +1,6 @@
+# 🤖 My ML Portfolio
+
+## Projects
 | # | Project | Score | Link |
 |---|---------|-------|------|
 | 1 | 🌸 Iris Classification | 97% Accuracy | [View](./iris_classification.ipynb) |
@@ -8,6 +11,13 @@
 | 6 | 🌦️ Weather Prediction | Real World AI | [View](./weather_prediction.ipynb) |
 | 7 | 🛒 Customer Churn Prediction | 72% Accuracy | [View](./customer_churn_prediction.ipynb) |
 | 8 | 🎗️ Breast Cancer Detection | 97.37% Accuracy | [View](./breast_cancer_detection.ipynb) |
+
+## Technologies
+Python | Scikit-learn | Pandas | Matplotlib | Seaborn
+
+## About Me
+BS Computer Science Graduate
+Specializing in Machine Learning & Data Science
 ## About Me
 BS Computer Science Graduate
 Specializing in Machine Learning & Data Science
